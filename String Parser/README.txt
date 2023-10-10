@@ -1,7 +1,7 @@
 BLANARU ANDY-ȘTEFAN
 332CB
 
-										README TEMA 1 - LFA
+				README TEMA 1 - LFA
 
 	Prima data am implementat o functie care imi afla cel mai lung prefix din cuvantul aux1,
 care este si sufix in cuvantul aux2. Functia returneaza lungimea maxima a acestuia.
